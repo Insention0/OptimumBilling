@@ -1,0 +1,466 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 08 Apr 2023 21:17:40 at https://www.optimum.net/pages/auto-payment.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.optimum.net/pages/auto-payment.html -O1 "C:\Users\USER\Desktop\optimum" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+21:17:42	Warning: 	Note: due to https://www.optimum.net remote robots.txt rules, links beginning with these path will be forbidden: /profile, /pay-bill, /api, /pages/altice-one/setting-changes.html (see in the options to disable this)
+
+21:18:47	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from https://www.optimum.net/pages/auto-payment.html)
+
+21:18:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/pages/{{CommonHeaderCtrl.helloMessage.link}} (from https://www.optimum.net/pages/auto-payment.html)
+
+21:22:22	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/{{CommonHeaderCtrl.managedRouterLink}} (from https://www.optimum.net/pages/auto-payment.html)
+
+21:22:22	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/{{CommonHeaderCtrl.webmailLink}} (from https://www.optimum.net/pages/auto-payment.html)
+
+21:22:22	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/{{ email.link }} (from https://www.optimum.net/pages/auto-payment.html)
+
+21:23:50	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/{{recording.href}} (from https://www.optimum.net/pages/auto-payment.html)
+
+21:23:50	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/{{recording.thumb}} (from https://www.optimum.net/pages/auto-payment.html)
+
+21:23:50	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Voicemail/Show (from https://www.optimum.net/pages/auto-payment.html)
+
+21:23:50	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/{{CommonHeaderCtrl.basePhoneMenuUrl}}/CallHistory (from https://www.optimum.net/pages/auto-payment.html)
+
+21:23:50	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/{{CommonHeaderCtrl.basePhoneMenuUrl}}/International/MyPlan (from https://www.optimum.net/pages/auto-payment.html)
+
+21:23:50	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/CallWaiting (from https://www.optimum.net/pages/auto-payment.html)
+
+21:23:50	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/CallForwarding (from https://www.optimum.net/pages/auto-payment.html)
+
+21:23:50	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/VipRinging (from https://www.optimum.net/pages/auto-payment.html)
+
+21:23:50	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/BlockUnwantedCalls (from https://www.optimum.net/pages/auto-payment.html)
+
+21:23:50	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/FindMe (from https://www.optimum.net/pages/auto-payment.html)
+
+21:23:50	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/PrivateOutboundCalls (from https://www.optimum.net/pages/auto-payment.html)
+
+21:23:50	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/DirectoryListing (from https://www.optimum.net/pages/auto-payment.html)
+
+21:24:08	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Voicemail (from https://www.optimum.net/pages/auto-payment.html)
+
+21:24:08	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/{{CommonFooterCtrl.twitterLink}} (from https://www.optimum.net/pages/auto-payment.html)
+
+21:24:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/pages/storm-preparedness.html (from https://www.optimum.net/pages/auto-payment.html)
+
+21:24:13	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/{{BottomDefaultCtrl.webmailLink}} (from https://www.optimum.net/pages/auto-payment.html)
+
+21:24:13	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/{{BottomDefaultCtrl.phoneLink}} (from https://www.optimum.net/pages/auto-payment.html)
+
+21:24:13	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/{{BottomDefaultCtrl.phoneLink}}/Voicemail (from https://www.optimum.net/pages/auto-payment.html)
+
+21:24:13	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/{{BottomDefaultCtrl.outageLink}} (from https://www.optimum.net/pages/auto-payment.html)
+
+21:24:14	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/assets/fonts/montserrat/Montserrat-Bold.ttf (from https://www.optimum.net/core-and-parts-palette-1_page_1.css?202303201421)
+
+21:24:19	Error: 	"Not Found" (404) at link https://www.optimum.net/assets/fonts/montserrat/Montserrat-Extrabold.ttf (from https://www.optimum.net/core-and-parts-palette-1_page_1.css?202303201421)
+
+21:24:19	Error: 	"Not Found" (404) at link https://www.optimum.net/assets/fonts/montserrat/Montserrat-ExtraboldItalic.ttf (from https://www.optimum.net/core-and-parts-palette-1_page_1.css?202303201421)
+
+21:24:19	Error: 	"Not Found" (404) at link https://www.optimum.net/assets/fonts/montserrat/Montserrat-Semibold.ttf (from https://www.optimum.net/core-and-parts-palette-1_page_1.css?202303201421)
+
+21:24:19	Error: 	"Not Found" (404) at link https://www.optimum.net/assets/fonts/montserrat/Montserrat-SemiboldItalic.ttf (from https://www.optimum.net/core-and-parts-palette-1_page_1.css?202303201421)
+
+21:24:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/assets/fonts/regular/Regular-BlackItalic.woff (from https://www.optimum.net/core-and-parts-palette-1_page_2.css?202303201421)
+
+21:24:21	Error: 	"Not Found" (404) at link https://www.optimum.net/pages/get (from assets.adobedtm.com/5b7063f54823/6d6d655087a2/launch-6b631ac52479.min.js)
+
+21:24:21	Error: 	"Not Found" (404) at link https://www.optimum.net/helpers/getObjectProperty.js (from assets.adobedtm.com/5b7063f54823/6d6d655087a2/launch-6b631ac52479.min.js)
+
+21:24:21	Error: 	"Not Found" (404) at link https://www.optimum.net/pages/ (from assets.adobedtm.com/5b7063f54823/6d6d655087a2/launch-6b631ac52479.min.js)
+
+21:24:21	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/{{CommonHeaderCtrl.helloMessage.link}} (from https://www.optimum.net/pages/auto-payment.html)
+
+21:25:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/cdn/static.tvlistings.optimum.net/ool/static/prod/images/google-play.png (from https://www.optimum.net/pages/optimum-support-app.html)
+
+21:25:40	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/optimum-one/{{CommonHeaderCtrl.helloMessage.link}} (from https://www.optimum.net/pages/optimum-one/get-started.html)
+
+21:25:40	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/optimum-one/{{CommonHeaderCtrl.managedRouterLink}} (from https://www.optimum.net/pages/optimum-one/get-started.html)
+
+21:25:40	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/optimum-one/{{CommonHeaderCtrl.webmailLink}} (from https://www.optimum.net/pages/optimum-one/get-started.html)
+
+21:25:40	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/optimum-one/{{ email.link }} (from https://www.optimum.net/pages/optimum-one/get-started.html)
+
+21:25:40	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/optimum-one/{{recording.href}} (from https://www.optimum.net/pages/optimum-one/get-started.html)
+
+21:25:40	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/optimum-one/{{recording.thumb}} (from https://www.optimum.net/pages/optimum-one/get-started.html)
+
+21:25:40	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/optimum-one/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Voicemail/Show (from https://www.optimum.net/pages/optimum-one/get-started.html)
+
+21:25:40	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/optimum-one/{{CommonHeaderCtrl.basePhoneMenuUrl}}/CallHistory (from https://www.optimum.net/pages/optimum-one/get-started.html)
+
+21:25:40	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/optimum-one/{{CommonHeaderCtrl.basePhoneMenuUrl}}/International/MyPlan (from https://www.optimum.net/pages/optimum-one/get-started.html)
+
+21:25:40	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/optimum-one/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/CallWaiting (from https://www.optimum.net/pages/optimum-one/get-started.html)
+
+21:25:40	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/optimum-one/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/CallForwarding (from https://www.optimum.net/pages/optimum-one/get-started.html)
+
+21:25:40	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/optimum-one/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/VipRinging (from https://www.optimum.net/pages/optimum-one/get-started.html)
+
+21:25:40	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/optimum-one/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/BlockUnwantedCalls (from https://www.optimum.net/pages/optimum-one/get-started.html)
+
+21:25:40	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/optimum-one/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/FindMe (from https://www.optimum.net/pages/optimum-one/get-started.html)
+
+21:25:40	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/optimum-one/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/PrivateOutboundCalls (from https://www.optimum.net/pages/optimum-one/get-started.html)
+
+21:25:40	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/optimum-one/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/DirectoryListing (from https://www.optimum.net/pages/optimum-one/get-started.html)
+
+21:25:40	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/optimum-one/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Voicemail (from https://www.optimum.net/pages/optimum-one/get-started.html)
+
+21:26:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/pages/optimum-one/menu.html (from https://www.optimum.net/pages/optimum-one/get-started.html)
+
+21:32:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/pages/altice-one/setup-remote.html (from https://www.optimum.net/pages/optimum-one/get-started.html)
+
+21:32:33	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/optimum-one/{{CommonFooterCtrl.twitterLink}} (from https://www.optimum.net/pages/optimum-one/get-started.html)
+
+21:32:33	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/optimum-one/{{BottomDefaultCtrl.webmailLink}} (from https://www.optimum.net/pages/optimum-one/get-started.html)
+
+21:32:33	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/optimum-one/{{BottomDefaultCtrl.phoneLink}} (from https://www.optimum.net/pages/optimum-one/get-started.html)
+
+21:32:33	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/optimum-one/{{BottomDefaultCtrl.phoneLink}}/Voicemail (from https://www.optimum.net/pages/optimum-one/get-started.html)
+
+21:32:33	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/optimum-one/{{BottomDefaultCtrl.outageLink}} (from https://www.optimum.net/pages/optimum-one/get-started.html)
+
+21:32:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/pages/internet-protection/online-security.html (from https://www.optimum.net/pages/internet-protection.html)
+
+21:32:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/pages/tv/{{CommonHeaderCtrl.helloMessage.link}} (from https://www.optimum.net/pages/tv/pay-per-view.html)
+
+21:32:53	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/tv/{{CommonHeaderCtrl.managedRouterLink}} (from https://www.optimum.net/pages/tv/pay-per-view.html)
+
+21:32:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/pages/tv/{{CommonHeaderCtrl.webmailLink}} (from https://www.optimum.net/pages/tv/pay-per-view.html)
+
+21:32:57	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/tv/{{ email.link }} (from https://www.optimum.net/pages/tv/pay-per-view.html)
+
+21:32:57	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/tv/{{recording.href}} (from https://www.optimum.net/pages/tv/pay-per-view.html)
+
+21:32:57	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/tv/{{recording.thumb}} (from https://www.optimum.net/pages/tv/pay-per-view.html)
+
+21:32:57	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/tv/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Voicemail/Show (from https://www.optimum.net/pages/tv/pay-per-view.html)
+
+21:32:57	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/tv/{{CommonHeaderCtrl.basePhoneMenuUrl}}/CallHistory (from https://www.optimum.net/pages/tv/pay-per-view.html)
+
+21:32:57	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/tv/{{CommonHeaderCtrl.basePhoneMenuUrl}}/International/MyPlan (from https://www.optimum.net/pages/tv/pay-per-view.html)
+
+21:32:57	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/tv/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/CallWaiting (from https://www.optimum.net/pages/tv/pay-per-view.html)
+
+21:32:57	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/tv/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/CallForwarding (from https://www.optimum.net/pages/tv/pay-per-view.html)
+
+21:32:57	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/tv/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/VipRinging (from https://www.optimum.net/pages/tv/pay-per-view.html)
+
+21:32:57	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/tv/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/BlockUnwantedCalls (from https://www.optimum.net/pages/tv/pay-per-view.html)
+
+21:32:57	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/tv/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/FindMe (from https://www.optimum.net/pages/tv/pay-per-view.html)
+
+21:32:57	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/tv/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/PrivateOutboundCalls (from https://www.optimum.net/pages/tv/pay-per-view.html)
+
+21:32:57	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/tv/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/DirectoryListing (from https://www.optimum.net/pages/tv/pay-per-view.html)
+
+21:32:57	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/tv/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Voicemail (from https://www.optimum.net/pages/tv/pay-per-view.html)
+
+21:32:57	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/tv/{{CommonFooterCtrl.twitterLink}} (from https://www.optimum.net/pages/tv/pay-per-view.html)
+
+21:32:57	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/tv/{{BottomDefaultCtrl.webmailLink}} (from https://www.optimum.net/pages/tv/pay-per-view.html)
+
+21:32:57	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/tv/{{BottomDefaultCtrl.phoneLink}} (from https://www.optimum.net/pages/tv/pay-per-view.html)
+
+21:32:57	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/tv/{{BottomDefaultCtrl.phoneLink}}/Voicemail (from https://www.optimum.net/pages/tv/pay-per-view.html)
+
+21:32:57	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/tv/{{BottomDefaultCtrl.outageLink}} (from https://www.optimum.net/pages/tv/pay-per-view.html)
+
+21:33:03	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/tv/{{item.url}} (from https://www.optimum.net/pages/tv/tv-remote.html)
+
+21:33:03	Error: 	"Not Found" (404) at link static.tvlistings.optimum.net/ool/static/prod/images/remotes/rebrand/remote-2-{{$index+1}}.png (from https://www.optimum.net/pages/tv/tv-remote.html)
+
+21:33:03	Warning: 	Moved Permanently for https://www.optimum.net/pages/storm-preparedness.html
+
+21:33:03	Warning: 	File has moved from https://www.optimum.net/pages/storm-preparedness.html to https://www.optimum.com/storm
+
+21:33:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/assets/fonts/regular/Regular-BlackItalic.woff (from https://www.optimum.net/core-and-parts-palette-1_page_2.css?202303201421)
+
+21:33:03	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/service/{{CommonHeaderCtrl.helloMessage.link}} (from https://www.optimum.net/pages/service/premier-support.html)
+
+21:33:03	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/service/{{CommonHeaderCtrl.managedRouterLink}} (from https://www.optimum.net/pages/service/premier-support.html)
+
+21:33:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/pages/service/{{CommonHeaderCtrl.webmailLink}} (from https://www.optimum.net/pages/service/premier-support.html)
+
+21:33:03	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/service/{{ email.link }} (from https://www.optimum.net/pages/service/premier-support.html)
+
+21:33:03	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/service/{{recording.href}} (from https://www.optimum.net/pages/service/premier-support.html)
+
+21:33:03	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/service/{{recording.thumb}} (from https://www.optimum.net/pages/service/premier-support.html)
+
+21:33:03	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/service/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Voicemail/Show (from https://www.optimum.net/pages/service/premier-support.html)
+
+21:33:03	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/service/{{CommonHeaderCtrl.basePhoneMenuUrl}}/CallHistory (from https://www.optimum.net/pages/service/premier-support.html)
+
+21:33:03	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/service/{{CommonHeaderCtrl.basePhoneMenuUrl}}/International/MyPlan (from https://www.optimum.net/pages/service/premier-support.html)
+
+21:33:03	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/service/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/CallWaiting (from https://www.optimum.net/pages/service/premier-support.html)
+
+21:33:03	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/service/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/CallForwarding (from https://www.optimum.net/pages/service/premier-support.html)
+
+21:33:03	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/service/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/VipRinging (from https://www.optimum.net/pages/service/premier-support.html)
+
+21:33:03	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/service/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/BlockUnwantedCalls (from https://www.optimum.net/pages/service/premier-support.html)
+
+21:33:03	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/service/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/FindMe (from https://www.optimum.net/pages/service/premier-support.html)
+
+21:33:03	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/service/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/PrivateOutboundCalls (from https://www.optimum.net/pages/service/premier-support.html)
+
+21:33:03	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/service/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/DirectoryListing (from https://www.optimum.net/pages/service/premier-support.html)
+
+21:33:03	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/service/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Voicemail (from https://www.optimum.net/pages/service/premier-support.html)
+
+21:33:03	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/service/{{CommonFooterCtrl.twitterLink}} (from https://www.optimum.net/pages/service/premier-support.html)
+
+21:33:03	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/service/{{BottomDefaultCtrl.webmailLink}} (from https://www.optimum.net/pages/service/premier-support.html)
+
+21:33:03	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/service/{{BottomDefaultCtrl.phoneLink}} (from https://www.optimum.net/pages/service/premier-support.html)
+
+21:33:03	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/service/{{BottomDefaultCtrl.phoneLink}}/Voicemail (from https://www.optimum.net/pages/service/premier-support.html)
+
+21:33:03	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/service/{{BottomDefaultCtrl.outageLink}} (from https://www.optimum.net/pages/service/premier-support.html)
+
+21:33:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/cdn/static.tvlistings.optimum.net/ool/static/prod/images/google-play.png (from https://www.optimum.net/pages/optimum-support-app.html)
+
+21:33:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/cdn/static.tvlistings.optimum.net/ool/static/prod/images/theone/9.png (from https://www.optimum.net/pages/optimum-one/remote.html)
+
+21:33:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/pages/tv/tv-remote.html?v_cid=vanity-_-url-_-remote (from https://www.optimum.net/pages/optimum-one/remote.html)
+
+21:33:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/pages/optimum-one/menu.html (from https://www.optimum.net/pages/optimum-one/get-started.html)
+
+21:33:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/cdn/static.tvlistings.optimum.net/ool/static/prod/images/theone/arrow-right.png (from https://www.optimum.net/pages/optimum-one/search.html)
+
+21:33:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/cdn/static.tvlistings.optimum.net/ool/static/prod/images/theone/sports.png (from https://www.optimum.net/pages/optimum-one/search.html)
+
+21:33:10	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/cdn/static.tvlistings.optimum.net/ool/static/prod/images/theone/ffd-button.png (from https://www.optimum.net/pages/optimum-one/dvr.html)
+
+21:33:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/cdn/static.tvlistings.optimum.net/ool/static/prod/images/theone/jump.png (from https://www.optimum.net/pages/optimum-one/dvr.html)
+
+21:33:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/cdn/static.tvlistings.optimum.net/ool/static/prod/images/theone/bar-progress.png (from https://www.optimum.net/pages/optimum-one/dvr.html)
+
+21:33:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/cdn/static.tvlistings.optimum.net/ool/static/prod/images/theone/record.png (from https://www.optimum.net/pages/optimum-one/dvr.html)
+
+21:33:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/pages/optimum-one/settings.html?section=parental (from https://www.optimum.net/pages/optimum-one/dvr.html)
+
+21:33:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/cdn/static.tvlistings.optimum.net/ool/static/prod/images/theone/PC.png (from https://www.optimum.net/pages/optimum-one/settings.html)
+
+21:33:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/pages/altice-one/wifi-at-home.html (from https://www.optimum.net/pages/optimum-one/settings.html)
+
+21:33:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/cdn/static.tvlistings.optimum.net/ool/static/prod/images/theone/altice_one_app.png (from https://www.optimum.net/pages/optimum-one/app.html)
+
+21:33:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/cdn/static.tvlistings.optimum.net/ool/static/prod/images/theone/globe-international.png (from https://www.optimum.net/pages/optimum-one/phone.html)
+
+21:33:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/cdn/static.tvlistings.optimum.net/ool/static/prod/images/theone/TV-Icon.png (from https://www.optimum.net/pages/optimum-one/account-billing.html)
+
+21:33:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/pages/read-your-bill.html (from https://www.optimum.net/pages/optimum-one/account-billing.html)
+
+21:33:38	Warning: 	Moved Permanently for https://www.optimum.net/pages/altice-one/setup-remote.html
+
+21:33:38	Warning: 	File has moved from https://www.optimum.net/pages/altice-one/setup-remote.html to https://www.optimum.net/pages/optimum-one/setup-remote.html
+
+21:33:38	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/security/{{CommonHeaderCtrl.helloMessage.link}} (from https://www.optimum.net/pages/security/mcafee.html)
+
+21:33:38	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/security/{{CommonHeaderCtrl.managedRouterLink}} (from https://www.optimum.net/pages/security/mcafee.html)
+
+21:33:38	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/security/{{CommonHeaderCtrl.webmailLink}} (from https://www.optimum.net/pages/security/mcafee.html)
+
+21:33:38	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/security/{{ email.link }} (from https://www.optimum.net/pages/security/mcafee.html)
+
+21:33:38	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/security/{{recording.href}} (from https://www.optimum.net/pages/security/mcafee.html)
+
+21:33:38	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/security/{{recording.thumb}} (from https://www.optimum.net/pages/security/mcafee.html)
+
+21:33:38	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/security/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Voicemail/Show (from https://www.optimum.net/pages/security/mcafee.html)
+
+21:33:38	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/security/{{CommonHeaderCtrl.basePhoneMenuUrl}}/CallHistory (from https://www.optimum.net/pages/security/mcafee.html)
+
+21:33:38	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/security/{{CommonHeaderCtrl.basePhoneMenuUrl}}/International/MyPlan (from https://www.optimum.net/pages/security/mcafee.html)
+
+21:33:38	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/security/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/CallWaiting (from https://www.optimum.net/pages/security/mcafee.html)
+
+21:33:38	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/security/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/CallForwarding (from https://www.optimum.net/pages/security/mcafee.html)
+
+21:33:38	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/security/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/VipRinging (from https://www.optimum.net/pages/security/mcafee.html)
+
+21:33:38	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/security/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/BlockUnwantedCalls (from https://www.optimum.net/pages/security/mcafee.html)
+
+21:33:38	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/security/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/FindMe (from https://www.optimum.net/pages/security/mcafee.html)
+
+21:33:38	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/security/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/PrivateOutboundCalls (from https://www.optimum.net/pages/security/mcafee.html)
+
+21:33:38	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/security/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/DirectoryListing (from https://www.optimum.net/pages/security/mcafee.html)
+
+21:33:38	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/security/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Voicemail (from https://www.optimum.net/pages/security/mcafee.html)
+
+21:33:38	Error: 	Unable to save file C:/Users/USER/Desktop/optimum/www.optimum.net/pages/security/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Voicemail: Permission denied
+
+21:33:38	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/pages/security/mcafee/features.html (from https://www.optimum.net/pages/security/mcafee.html)
+
+21:33:39	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/pages/security/{{CommonFooterCtrl.twitterLink}} (from https://www.optimum.net/pages/security/mcafee.html)
+
+21:33:39	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/security/{{BottomDefaultCtrl.webmailLink}} (from https://www.optimum.net/pages/security/mcafee.html)
+
+21:33:39	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/security/{{BottomDefaultCtrl.phoneLink}} (from https://www.optimum.net/pages/security/mcafee.html)
+
+21:33:39	Error: 	Unable to save file C:/Users/USER/Desktop/optimum/www.optimum.net/pages/security/{{BottomDefaultCtrl.phoneLink}}: Permission denied
+
+21:33:39	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/security/{{BottomDefaultCtrl.phoneLink}}/Voicemail (from https://www.optimum.net/pages/security/mcafee.html)
+
+21:33:39	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/security/{{BottomDefaultCtrl.outageLink}} (from https://www.optimum.net/pages/security/mcafee.html)
+
+21:33:45	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/tv/{{CommonHeaderCtrl.helloMessage.link}} (from https://www.optimum.net/pages/tv/pay-per-view.html)
+
+21:33:45	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/tv/{{CommonHeaderCtrl.webmailLink}} (from https://www.optimum.net/pages/tv/pay-per-view.html)
+
+21:33:45	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/pages/business/{{CommonHeaderCtrl.helloMessage.link}} (from https://www.optimum.net/pages/business/transition.html)
+
+21:33:45	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/business/{{CommonHeaderCtrl.managedRouterLink}} (from https://www.optimum.net/pages/business/transition.html)
+
+21:33:45	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/pages/business/{{CommonHeaderCtrl.webmailLink}} (from https://www.optimum.net/pages/business/transition.html)
+
+21:33:45	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/business/{{ email.link }} (from https://www.optimum.net/pages/business/transition.html)
+
+21:33:45	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/business/{{recording.href}} (from https://www.optimum.net/pages/business/transition.html)
+
+21:33:45	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/business/{{recording.thumb}} (from https://www.optimum.net/pages/business/transition.html)
+
+21:33:45	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/business/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Voicemail/Show (from https://www.optimum.net/pages/business/transition.html)
+
+21:33:45	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/business/{{CommonHeaderCtrl.basePhoneMenuUrl}}/CallHistory (from https://www.optimum.net/pages/business/transition.html)
+
+21:33:45	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/business/{{CommonHeaderCtrl.basePhoneMenuUrl}}/International/MyPlan (from https://www.optimum.net/pages/business/transition.html)
+
+21:33:45	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/business/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/CallWaiting (from https://www.optimum.net/pages/business/transition.html)
+
+21:33:45	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/business/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/CallForwarding (from https://www.optimum.net/pages/business/transition.html)
+
+21:33:45	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/business/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/VipRinging (from https://www.optimum.net/pages/business/transition.html)
+
+21:33:45	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/business/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/BlockUnwantedCalls (from https://www.optimum.net/pages/business/transition.html)
+
+21:33:45	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/business/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/FindMe (from https://www.optimum.net/pages/business/transition.html)
+
+21:33:45	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/business/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/PrivateOutboundCalls (from https://www.optimum.net/pages/business/transition.html)
+
+21:33:45	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/business/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/DirectoryListing (from https://www.optimum.net/pages/business/transition.html)
+
+21:33:45	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/business/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Voicemail (from https://www.optimum.net/pages/business/transition.html)
+
+21:33:45	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/business/{{CommonFooterCtrl.twitterLink}} (from https://www.optimum.net/pages/business/transition.html)
+
+21:33:45	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/business/{{BottomDefaultCtrl.webmailLink}} (from https://www.optimum.net/pages/business/transition.html)
+
+21:33:45	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/business/{{BottomDefaultCtrl.phoneLink}} (from https://www.optimum.net/pages/business/transition.html)
+
+21:33:45	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/business/{{BottomDefaultCtrl.phoneLink}}/Voicemail (from https://www.optimum.net/pages/business/transition.html)
+
+21:33:45	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/business/{{BottomDefaultCtrl.outageLink}} (from https://www.optimum.net/pages/business/transition.html)
+
+21:33:45	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/pages/service/{{CommonHeaderCtrl.webmailLink}} (from https://www.optimum.net/pages/service/premier-support.html)
+
+21:33:45	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.optimum.net/cdn/static.tvlistings.optimum.net/ool/static/prod/images/google-play.png (from https://www.optimum.net/pages/optimum-support-app.html)
+
+21:33:50	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/cdn/static.tvlistings.optimum.net/ool/static/prod/images/theone/sports.png (from https://www.optimum.net/pages/optimum-one/search.html)
+
+21:33:50	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/cdn/static.tvlistings.optimum.net/ool/static/prod/images/theone/jump.png (from https://www.optimum.net/pages/optimum-one/dvr.html)
+
+21:33:50	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/pages/optimum-one/settings.html?section=parental (from https://www.optimum.net/pages/optimum-one/dvr.html)
+
+21:33:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/pages/altice-one/wifi-at-home.html (from https://www.optimum.net/pages/optimum-one/settings.html)
+
+21:34:08	Warning: 	Moved Permanently for https://www.optimum.net/pages/security/mcafee/features.html
+
+21:34:08	Warning: 	File has moved from https://www.optimum.net/pages/security/mcafee/features.html to https://www.optimum.net/pages/internet-security-new.html
+
+21:34:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/pages/security/{{CommonFooterCtrl.twitterLink}} (from https://www.optimum.net/pages/security/mcafee.html)
+
+21:34:09	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/internet-protection/{{CommonHeaderCtrl.helloMessage.link}} (from https://www.optimum.net/pages/internet-protection/online-security.html)
+
+21:34:09	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/internet-protection/{{CommonHeaderCtrl.managedRouterLink}} (from https://www.optimum.net/pages/internet-protection/online-security.html)
+
+21:34:09	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/internet-protection/{{CommonHeaderCtrl.webmailLink}} (from https://www.optimum.net/pages/internet-protection/online-security.html)
+
+21:34:09	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/internet-protection/{{ email.link }} (from https://www.optimum.net/pages/internet-protection/online-security.html)
+
+21:34:09	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/internet-protection/{{recording.href}} (from https://www.optimum.net/pages/internet-protection/online-security.html)
+
+21:34:09	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/internet-protection/{{recording.thumb}} (from https://www.optimum.net/pages/internet-protection/online-security.html)
+
+21:34:09	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/internet-protection/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Voicemail/Show (from https://www.optimum.net/pages/internet-protection/online-security.html)
+
+21:34:09	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/internet-protection/{{CommonHeaderCtrl.basePhoneMenuUrl}}/CallHistory (from https://www.optimum.net/pages/internet-protection/online-security.html)
+
+21:34:09	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/internet-protection/{{CommonHeaderCtrl.basePhoneMenuUrl}}/International/MyPlan (from https://www.optimum.net/pages/internet-protection/online-security.html)
+
+21:34:09	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/internet-protection/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/CallWaiting (from https://www.optimum.net/pages/internet-protection/online-security.html)
+
+21:34:09	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/internet-protection/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/CallForwarding (from https://www.optimum.net/pages/internet-protection/online-security.html)
+
+21:34:09	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/internet-protection/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/VipRinging (from https://www.optimum.net/pages/internet-protection/online-security.html)
+
+21:34:09	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/internet-protection/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/BlockUnwantedCalls (from https://www.optimum.net/pages/internet-protection/online-security.html)
+
+21:34:09	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/internet-protection/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/FindMe (from https://www.optimum.net/pages/internet-protection/online-security.html)
+
+21:34:09	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/internet-protection/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/CallingFeatures/PrivateOutboundCalls (from https://www.optimum.net/pages/internet-protection/online-security.html)
+
+21:34:09	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/internet-protection/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Features/DirectoryListing (from https://www.optimum.net/pages/internet-protection/online-security.html)
+
+21:34:09	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/internet-protection/{{CommonHeaderCtrl.basePhoneMenuUrl}}/Voicemail (from https://www.optimum.net/pages/internet-protection/online-security.html)
+
+21:34:09	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/internet-protection/{{CommonFooterCtrl.twitterLink}} (from https://www.optimum.net/pages/internet-protection/online-security.html)
+
+21:34:09	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/internet-protection/{{BottomDefaultCtrl.webmailLink}} (from https://www.optimum.net/pages/internet-protection/online-security.html)
+
+21:34:09	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/internet-protection/{{BottomDefaultCtrl.phoneLink}} (from https://www.optimum.net/pages/internet-protection/online-security.html)
+
+21:34:09	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/internet-protection/{{BottomDefaultCtrl.phoneLink}}/Voicemail (from https://www.optimum.net/pages/internet-protection/online-security.html)
+
+21:34:09	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/internet-protection/{{BottomDefaultCtrl.outageLink}} (from https://www.optimum.net/pages/internet-protection/online-security.html)
+
+21:34:09	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/business/{{CommonHeaderCtrl.helloMessage.link}} (from https://www.optimum.net/pages/business/transition.html)
+
+21:34:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/pages/business/{{CommonHeaderCtrl.webmailLink}} (from https://www.optimum.net/pages/business/transition.html)
+
+21:34:09	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.optimum.net/pages/service/{{CommonHeaderCtrl.webmailLink}} (from https://www.optimum.net/pages/service/premier-support.html)
+
+21:34:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/cdn/static.tvlistings.optimum.net/ool/static/prod/images/theone/up-down.png (from https://www.optimum.net/pages/optimum-one/menu.html)
+
+21:34:15	Warning: 	Moved Permanently for https://www.optimum.net/pages/altice-one/wifi-at-home.html
+
+21:34:15	Warning: 	File has moved from https://www.optimum.net/pages/altice-one/wifi-at-home.html to https://www.optimum.net/pages/optimum-one/wifi-at-home.html
+
+21:34:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/pages/read-your-bill-west.html (from https://www.optimum.net/pages/read-your-bill.html)
+
+21:34:22	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/security/{{CommonFooterCtrl.twitterLink}} (from https://www.optimum.net/pages/security/mcafee.html)
+
+21:34:22	Error: 	"Bad Request" (400) at link https://www.optimum.net/pages/business/{{CommonHeaderCtrl.webmailLink}} (from https://www.optimum.net/pages/business/transition.html)
+
+21:34:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/pages/read-your-bill-west.html (from https://www.optimum.net/pages/read-your-bill.html)
+
+21:34:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.optimum.net/cms-templates/internet-security/page.css?202303201420 (from https://www.optimum.net/pages/internet-security-new.html)
+
+21:34:25	Warning: 	Found for https://www.optimum.net/cms-templates/internet-security/page.css?202303201420
+
+21:34:25	Warning: 	Warning moved treated for https://www.optimum.net/cms-templates/internet-security/page.css?202303201420 (real one is https://www.optimum.net/cms-templates/internet-security/page-palette-1.css?202303201420)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 minutes 46 seconds : 560 links scanned, 345 files written (51625918 bytes overall) [51990194 bytes received at 51680 bytes/sec], 670485 bytes transferred using HTTP compression in 7 files, ratio 29%, 3.2 requests per connection
+
+(167 errors, 55 warnings, 0 messages)
+

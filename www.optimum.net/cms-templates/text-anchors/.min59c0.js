@@ -1,0 +1,2 @@
+/*! optimus v0.1.0 Built at 2023-03-20 14:21 EDT */
+angular.module("textAnchors",["dropdowns","escape","config","platformPlayer","lightBox"]).controller("TextAnchorsCtrl",["$scope",function(a){console.log("Hello from textAnchors page");var b={textAnchorsOptions:{},preSelected:null};a.addSection=function(b,c){null===a.model.preSelected&&(a.model.preSelected=b),a.model.textAnchorsOptions[b]=c},a.addActive=function(b){return a.model.preSelected===b?"active":""},a.model=b}]);

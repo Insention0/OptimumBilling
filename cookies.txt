@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+optimum.net	TRUE	/	FALSE	1999999999	site	new
+optimum.net	TRUE	/	FALSE	1999999999	cachekeys	ZIP=11714| CORP=07801| REGION=
+optimum.net	TRUE	/	FALSE	1999999999	Gkkroh2E	A1n6SmKHAQAAfrG9I6VLlUVKujJJ_bsVcIx1GYhSK9D0562m8hdo--2Qzvu3AZqxo7J4z6G0wH8AAEB3AAAAAA|1|0|e67e0c9e8835293aa28390599def62f65a32b636
+.sitescdn.net	TRUE	/	FALSE	1999999999	__cf_bm	NLE_TXgW_yoHMchxFdk.AcUVsbiv8cCKT0Ej9XrKfRk-1680981294-0-AdyBXaVWr1EZGQ2N4yILwUnam7YZeYmFY1ELfmBwQJVzpSXlNDE/ZWX5tqJvX42p2on1JZfJ6Knvt09hBKB+krE=
+assets.sitescdn.net	TRUE	/	FALSE	1999999999	SameSite	None
+www.optimum.net	TRUE	/	FALSE	1999999999	JSESSIONID	7D51260F7B47578371A38127FE4DFB4D
+
